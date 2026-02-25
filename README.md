@@ -104,7 +104,7 @@ For portfolio mode, individual analyses are collected, then a second API call sy
 ### Quick Start
 
 ```bash
-git clone https://github.com/your-handle/cooked-or-rocket.git
+git clone https://github.com/hehamalainen/cooked-or-rocket.git
 cd cooked-or-rocket
 npm install
 
